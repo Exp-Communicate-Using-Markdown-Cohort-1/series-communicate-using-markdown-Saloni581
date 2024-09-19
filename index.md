@@ -1,3 +1,4 @@
-# Hello! I am learning markdown. 
+![image](https://github.com/user-attachments/assets/5d362a89-d06e-431a-8668-a67523d64087)# Hello! I am learning markdown. 
 ## This is very helpful while collaborating on github. Markdown extension is .md or simply .markdown (the full name).
-![Bhagwat Gita](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkrishnastore.com%2Flord-krishna-instructs-the-bhagavadgita-to-arjuna-h-krishna-1614.html&psig=AOvVaw17hDcaxs8TZPGrtRoiX25w&ust=1726860461228000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj7i9fez4gDFQAAAAAdAAAAABAE)
+![Bhagwat Gita](https://github.com/user-attachments/assets/7a980269-ecdc-4c4d-bda9-1a7a7e26a6e2)
+
