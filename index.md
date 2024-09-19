@@ -45,3 +45,7 @@ public class Main {
 }
 
 ```
+
+- [ ] Get to know more about github
+- [ ] Have to make meaningful contributions
+- [ ] Try to avoid baised collaboration.
